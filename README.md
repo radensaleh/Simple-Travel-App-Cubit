@@ -15,7 +15,7 @@
 
 ## 📸 Example iOS
 <pre>
-<img src="screenshot/ios_welcome_page.png" width="28.5%">     <img src="screenshot/ios_home_page.png" width="30%">     <img src="screenshot/ios_detail_page.png" width="28.5%">
+<img src="screenshot/ios_welcome_page.png" width="28.5%">     <img src="screenshot/ios_home_page.png" width="28.5%">     <img src="screenshot/ios_detail_page.png" width="28.5%">
 </pre>
 
 
